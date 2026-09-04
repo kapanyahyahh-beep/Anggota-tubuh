@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+    <title>Ensiklopedia Anatomi Tubuh Manusia</title>
+    <description>Panduan lengkap mengenai bagian tubuh manusia beserta penjelasan fungsinya.</description>
+    
+    <category name="Kepala dan Leher">
+        <organ id="otak">
+            <nama_lokal>Otak</nama_lokal>
+            <nama_ilmiah>Cerebrum</nama_ilmiah>
+            <deskripsi>Pusat sistem saraf pusat yang mengendalikan semua fungsi tubuh, pikiran, memori, dan emosi.</deskripsi>
+            <fungsi>
+                <item>Memproses informasi sensorik</item>
+                <item>Mengatur gerakan motorik volunter</item>
+                <item>Tempat terjadinya proses kognitif dan logika</item>
+            </fungsi>
+        </organ>
+        <organ id="mata">
+            <nama_lokal>Mata</nama_lokal>
+            <nama_ilmiah>Oculus</nama_ilmiah>
+            <deskripsi>Organ penglihatan yang mendeteksi cahaya dan mengubahnya menjadi impuls elektrokimia untuk diproses otak.</deskripsi>
+            <fungsi>
+                <item>Menerima stimulasi visual</item>
+                <item>Memfokuskan cahaya pada retina</item>
+            </fungsi>
+        </organ>
+        <organ id="telinga">
+            <nama_lokal>Telinga</nama_lokal>
+            <nama_ilmiah>Auris</nama_ilmiah>
+            <deskripsi>Organ sensorik yang bertanggung jawab untuk pendengaran dan menjaga keseimbangan tubuh.</deskripsi>
+            <fungsi>
+                <item>Menangkap gelombang suara</item>
+                <item>Menjaga orientasi spasial dan keseimbangan fisik</item>
+            </fungsi>
+        </organ>
+    </category>
+
+    <category name="Toraks dan Abdomen (Dada dan Perut)">
+        <organ id="jantung">
+            <nama_lokal>Jantung</nama_lokal>
+            <nama_ilmiah>Cor</nama_ilmiah>
+            <deskripsi>Organ otot berongga yang berfungsi memompa darah ke seluruh tubuh melalui sistem peredaran darah.</deskripsi>
+            <fungsi>
+                <item>Memompa darah kaya oksigen ke seluruh tubuh</item>
+                <item>Mengalirkan darah kotor ke paru-paru untuk dibersihkan</item>
+            </fungsi>
+        </organ>
+        <organ id="paru_paru">
+            <nama_lokal>Paru-paru</nama_lokal>
+            <nama_ilmiah>Pulmo</nama_ilmiah>
+            <deskripsi>Organ utama dalam sistem pernapasan tempat terjadinya pertukaran oksigen dan karbon dioksida.</deskripsi>
+            <fungsi>
+                <item>Menyerap oksigen dari udara bebas</item>
+                <item>Mengeluarkan karbon dioksida sebagai sisa metabolisme</item>
+            </fungsi>
+        </organ>
+        <organ id="lambung">
+            <nama_lokal>Lambung</nama_lokal>
+            <nama_ilmiah>Ventriculus</nama_ilmiah>
+            <deskripsi>Organ pencernaan berbentuk kantong yang mencerna makanan secara mekanik dan kimiawi.</deskripsi>
+            <fungsi>
+                <item>Menghancurkan makanan dengan asam lambung dan enzim</item>
+                <item>Menyimpan makanan sementara sebelum disalurkan ke usus halus</item>
+            </fungsi>
+        </organ>
+        <organ id="hati">
+            <nama_lokal>Hati</nama_lokal>
+            <nama_ilmiah>Hepar</nama_ilmiah>
+            <deskripsi>Kelenjar terbesar di dalam tubuh yang berfungsi menyaring racun dan memproduksi empedu.</deskripsi>
+            <fungsi>
+                <item>Detoksifikasi zat berbahaya dari darah</item>
+                <item>Memproduksi protein plasma dan cairan empedu</item>
+                <item>Menyimpan glikogen</item>
+            </fungsi>
+        </organ>
+    </category>
+
+    <category name="Sistem Gerak dan Ekskresi">
+        <organ id="tulang">
+            <nama_lokal>Tulang / Rangka</nama_lokal>
+            <nama_ilmiah>Osteon</nama_ilmiah>
+            <deskripsi>Jaringan ikat kaku yang membentuk kerangka tubuh manusia dan melindungi organ dalam.</deskripsi>
+            <fungsi>
+                <item>Menopang struktur dan bentuk tubuh</item>
+                <item>Melindungi organ-organ vital (otak, jantung, dll)</item>
+                <item>Tempat pembentukan sel darah merah di sumsum tulang</item>
+            </fungsi>
+        </organ>
+        <organ id="ginjal">
+            <nama_lokal>Ginjal</nama_lokal>
+            <nama_ilmiah>Ren</nama_ilmiah>
+            <deskripsi>Sepasang organ ekskresi berbentuk kacang merah yang menyaring limbah dari darah untuk dikeluarkan melalui urine.</deskripsi>
+            <fungsi>
+                <item>Menyaring zat sisa metabolisme dari darah</item>
+                <item>Mengatur keseimbangan cairan dan elektrolit tubuh</item>
+            </fungsi>
+        </organ>
+        <organ id="kulit">
+            <nama_lokal>Kulit</nama_lokal>
+            <nama_ilmiah>Integumen</nama_ilmiah>
+            <deskripsi>Organ terbesar yang menutupi seluruh permukaan tubuh dan berfungsi sebagai pelindung utama dari lingkungan luar.</deskripsi>
+            <fungsi>
+                <item>Melindungi tubuh dari patogen dan dehidrasi</item>
+                <item>Mengatur suhu tubuh melalui produksi keringat</item>
+                <item>Indra peraba sentuhan, tekanan, dan suhu</item>
+            </fungsi>
+        </organ>
+    </category>
+</website>
